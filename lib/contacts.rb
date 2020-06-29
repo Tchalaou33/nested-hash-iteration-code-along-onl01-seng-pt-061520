@@ -14,6 +14,7 @@ require 'pry'
      }
    }
   contacts. each do |person, contacts_details_hash|
+    
     binding.pry
     # data.each do |attribute, value|
       
