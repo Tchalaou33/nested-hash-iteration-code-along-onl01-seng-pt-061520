@@ -13,9 +13,10 @@ require 'pry'
        favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
      }
    }
-  contacts. each do |person, data|
-    data.each do |attribute, value|
+  contacts. each do |person, contacts_details_hash|
+    binding.pry
+    # data.each do |attribute, value|
       
-def remove_strawberry(contacts)
+# def remove_strawberry(contacts)
 
 end
