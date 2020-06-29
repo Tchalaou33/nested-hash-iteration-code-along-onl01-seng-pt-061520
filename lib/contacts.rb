@@ -20,7 +20,8 @@ require 'pry'
       data.delete_if {|ice_cream| ice_cream == "strawberry"}
     # data.each do |attribute, value|
       
-# def remove_strawberry(contacts)
+ def remove_strawberry(contacts)
+   
 end
 end
 end
